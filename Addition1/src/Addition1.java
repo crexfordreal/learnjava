@@ -20,7 +20,6 @@ public class Addition1 {
 		
 		sum = number1 + number2;
 		System.out.printf("The sum of %d and %d is %d\n", number1, number2, sum);
-		
 
 	}
 
